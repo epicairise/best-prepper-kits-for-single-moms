@@ -3,41 +3,40 @@
     "position": 1,
     "name": "Judy Mover Max Emergency Preparedness Kit",
     "slug": "judy-mover-max",
-    "description": "A comprehensive 72-hour emergency kit designed for families, featuring essential supplies in a water-resistant backpack.",
+    "description": "An all-in-one emergency kit designed for families with children, offering 72 hours of supplies for up to 4 people.",
     "image": "https://epicairise.github.io/judy-mover-max/media/judy-mover-max.jpg",
     "data-link": "pending"
   },
   {
     "position": 2,
-    "name": "Uncharted Supply Co. The SEVENTY2 Pro Survival System",
-    "slug": "uncharted-seventy2-pro",
-    "description": "A professional-grade survival kit equipped with over 60 tools, designed by emergency responders for critical situations.",
-    "image": "https://epicairise.github.io/uncharted-seventy2-pro/media/uncharted-seventy2-pro.jpg",
+    "name": "Sustain Supply Co. Comfort4 Emergency Survival Kit",
+    "slug": "sustain-comfort4",
+    "description": "A premium 72-hour kit tailored for a family of four, combining comfort and practicality with trusted emergency gear.",
+    "image": "https://epicairise.github.io/sustain-comfort4/media/sustain-comfort4.jpg",
     "data-link": "pending"
   },
   {
     "position": 3,
-    "name": "Ready America 2-Person Deluxe Emergency Kit (3-Day Backpack)",
-    "slug": "ready-america-2-person-kit",
-    "description": "An affordable emergency kit providing basic necessities for two people, including food, water, and first aid supplies.",
-    "image": "https://epicairise.github.io/ready-america-2-person-kit/media/ready-america-2-person-kit.jpg",
+    "name": "Redfora Complete Earthquake Bag for 2 People",
+    "slug": "redfora-earthquake-bag",
+    "description": "Designed for quick evacuation scenarios, this 2-person survival bag includes essentials plus extras for long-term resilience.",
+    "image": "https://epicairise.github.io/redfora-earthquake-bag/media/redfora-earthquake-bag.jpg",
     "data-link": "pending"
   },
   {
     "position": 4,
-    "name": "Stealth Angel Emergency Kit / Survival Bag",
-    "slug": "stealth-angel-kit",
-    "description": "A compact survival kit featuring essential tools and supplies, designed for quick response in various emergencies.",
-    "image": "https://epicairise.github.io/stealth-angel-kit/media/stealth-angel-kit.jpg",
+    "name": "Emergency Zone Family Prep Survival Kit",
+    "slug": "emergency-zone-family-kit",
+    "description": "This practical 72-hour kit focuses on disaster-readiness for households with young kids and limited resources.",
+    "image": "https://epicairise.github.io/emergency-zone-family-kit/media/emergency-zone-family-kit.jpg",
     "data-link": "pending"
   },
   {
     "position": 5,
-    "name": "Augason Farms 30-Day Emergency Food Supply",
-    "slug": "augason-farms-30-day",
-    "description": "A long-term food storage solution offering 200 servings of nutritious meals, ensuring sustenance during extended emergencies.",
-    "image": "https://epicairise.github.io/augason-farms-30-day/media/augason-farms-30-day.jpg",
+    "name": "Ready America Deluxe Emergency Kit for 2",
+    "slug": "ready-america-deluxe-kit",
+    "description": "Compact and accessible, this 2-person emergency kit includes practical basics and comfort extras in a sturdy backpack.",
+    "image": "https://epicairise.github.io/ready-america-deluxe-kit/media/ready-america-deluxe-kit.jpg",
     "data-link": "pending"
   }
 ]
-
