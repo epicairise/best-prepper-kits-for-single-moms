@@ -1,0 +1,42 @@
+[
+  {
+    "position": 1,
+    "name": "Judy Mover Max Emergency Preparedness Kit",
+    "slug": "judy-mover-max",
+    "description": "An all-in-one emergency kit designed for families with children, offering 72 hours of supplies for up to 4 people.",
+    "image": "https://epicairise.github.io/judy-mover-max/media/judy-mover-max.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Sustain Supply Co. Comfort4 Emergency Survival Kit",
+    "slug": "sustain-comfort4",
+    "description": "A premium 72-hour kit tailored for a family of four, combining comfort and practicality with trusted emergency gear.",
+    "image": "https://epicairise.github.io/sustain-comfort4/media/sustain-comfort4.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Redfora Complete Earthquake Bag for 2 People",
+    "slug": "redfora-earthquake-bag",
+    "description": "Designed for quick evacuation scenarios, this 2-person survival bag includes essentials plus extras for long-term resilience.",
+    "image": "https://epicairise.github.io/redfora-earthquake-bag/media/redfora-earthquake-bag.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Emergency Zone Family Prep Survival Kit",
+    "slug": "emergency-zone-family-kit",
+    "description": "This practical 72-hour kit focuses on disaster-readiness for households with young kids and limited resources.",
+    "image": "https://epicairise.github.io/emergency-zone-family-kit/media/emergency-zone-family-kit.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Ready America Deluxe Emergency Kit for 2",
+    "slug": "ready-america-deluxe-kit",
+    "description": "Compact and accessible, this 2-person emergency kit includes practical basics and comfort extras in a sturdy backpack.",
+    "image": "https://epicairise.github.io/ready-america-deluxe-kit/media/ready-america-deluxe-kit.jpg",
+    "data-link": "pending"
+  }
+]
