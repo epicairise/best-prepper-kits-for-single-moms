@@ -1,42 +1,26 @@
 [
   {
     "position": 1,
-    "name": "Judy Mover Max Emergency Preparedness Kit",
-    "slug": "judy-mover-max",
-    "description": "An all-in-one emergency kit designed for families with children, offering 72 hours of supplies for up to 4 people.",
-    "image": "https://epicairise.github.io/judy-mover-max/media/judy-mover-max.jpg",
+    "name": "First My Family All-in-One 2-Person 72-Hour Survival Kit",
+    "slug": "first-my-family-72-hour-kit",
+    "description": "A compact, FEMA-compliant kit designed to support two people for 72 hours, including essentials like food, water, and first aid.",
+    "image": "https://epicairise.github.io/first-my-family-72-hour-kit/media/first-my-family-kit.jpg",
     "data-link": "pending"
   },
   {
     "position": 2,
-    "name": "Sustain Supply Co. Comfort4 Emergency Survival Kit",
-    "slug": "sustain-comfort4",
-    "description": "A premium 72-hour kit tailored for a family of four, combining comfort and practicality with trusted emergency gear.",
-    "image": "https://epicairise.github.io/sustain-comfort4/media/sustain-comfort4.jpg",
+    "name": "Blue Seventy-Two 72-Hour Emergency Backpack Survival Kit",
+    "slug": "blue-seventy-two-72-hour-kit",
+    "description": "A lightweight, grab-and-go backpack equipped with essential items for one person to survive emergencies for three days.",
+    "image": "https://epicairise.github.io/blue-seventy-two-72-hour-kit/media/blue-seventy-two-kit.jpg",
     "data-link": "pending"
   },
   {
     "position": 3,
-    "name": "Redfora Complete Earthquake Bag for 2 People",
-    "slug": "redfora-earthquake-bag",
-    "description": "Designed for quick evacuation scenarios, this 2-person survival bag includes essentials plus extras for long-term resilience.",
-    "image": "https://epicairise.github.io/redfora-earthquake-bag/media/redfora-earthquake-bag.jpg",
-    "data-link": "pending"
-  },
-  {
-    "position": 4,
-    "name": "Emergency Zone Family Prep Survival Kit",
-    "slug": "emergency-zone-family-kit",
-    "description": "This practical 72-hour kit focuses on disaster-readiness for households with young kids and limited resources.",
-    "image": "https://epicairise.github.io/emergency-zone-family-kit/media/emergency-zone-family-kit.jpg",
-    "data-link": "pending"
-  },
-  {
-    "position": 5,
-    "name": "Ready America Deluxe Emergency Kit for 2",
-    "slug": "ready-america-deluxe-kit",
-    "description": "Compact and accessible, this 2-person emergency kit includes practical basics and comfort extras in a sturdy backpack.",
-    "image": "https://epicairise.github.io/ready-america-deluxe-kit/media/ready-america-deluxe-kit.jpg",
+    "name": "Taiker 151-Piece Emergency Survival Kit with First Aid",
+    "slug": "taiker-151-piece-survival-kit",
+    "description": "An extensive survival kit combining emergency tools, medical supplies, and fishing gear, all packed in a durable backpack.",
+    "image": "https://epicairise.github.io/taiker-151-piece-survival-kit/media/taiker-151-piece-kit.jpg",
     "data-link": "pending"
   }
 ]
