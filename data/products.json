@@ -1,26 +1,52 @@
 [
   {
     "position": 1,
-    "name": "First My Family All-in-One 2-Person 72-Hour Survival Kit",
-    "slug": "first-my-family-72-hour-kit",
-    "description": "A compact, FEMA-compliant kit designed to support two people for 72 hours, including essentials like food, water, and first aid.",
-    "image": "https://epicairise.github.io/first-my-family-72-hour-kit/media/first-my-family-kit.jpg",
+    "name": "Judy Mover Max",
+    "slug": "judy-mover-max",
+    "description": "All-in-one emergency kit designed for families on the move, with kid-friendly essentials and mom-ready tools.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/judy-mover-max.jpg",
+    "target_audience_match": "Perfect for single moms who want a grab-and-go solution without second-guessing if they’ve packed enough.",
+    "price": "From $295",
     "data-link": "pending"
   },
   {
     "position": 2,
-    "name": "Blue Seventy-Two 72-Hour Emergency Backpack Survival Kit",
-    "slug": "blue-seventy-two-72-hour-kit",
-    "description": "A lightweight, grab-and-go backpack equipped with essential items for one person to survive emergencies for three days.",
-    "image": "https://epicairise.github.io/blue-seventy-two-72-hour-kit/media/blue-seventy-two-kit.jpg",
+    "name": "Uncharted Supply Co. Seventy2 Pro",
+    "slug": "uncharted-seventy2-pro",
+    "description": "A durable and professional-grade bug-out bag with clear instructions and smart compartments.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/uncharted-seventy2-pro.jpg",
+    "target_audience_match": "Empowering for solo moms who want a no-nonsense, high-end survival kit built for real-life emergencies.",
+    "price": "From $389",
     "data-link": "pending"
   },
   {
     "position": 3,
-    "name": "Taiker 151-Piece Emergency Survival Kit with First Aid",
-    "slug": "taiker-151-piece-survival-kit",
-    "description": "An extensive survival kit combining emergency tools, medical supplies, and fishing gear, all packed in a durable backpack.",
-    "image": "https://epicairise.github.io/taiker-151-piece-survival-kit/media/taiker-151-piece-kit.jpg",
+    "name": "Ready America Deluxe Family Kit",
+    "slug": "ready-america-deluxe",
+    "description": "Affordable emergency preparedness for families, including water, food, and first aid.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/ready-america-deluxe.jpg",
+    "target_audience_match": "A budget-conscious solution for single moms who still want trusted, essential coverage for common disasters.",
+    "price": "From $89",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Prep Store Elite 4-Person Survival Kit",
+    "slug": "prep-store-elite",
+    "description": "Military-grade survival gear with power options, cooking tools, and long-lasting supplies.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/prepstore-elite.jpg",
+    "target_audience_match": "Ideal for moms who want to be truly self-sufficient and prepared for extended emergencies or rural living.",
+    "price": "From $499",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Sustain Supply Co. Comfort2",
+    "slug": "sustain-supply-comfort2",
+    "description": "Compact but comprehensive 72-hour kit for one adult and one child, built for comfort and clarity.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/sustain-comfort2.jpg",
+    "target_audience_match": "Made for single moms with younger kids who want an intuitive and nurturing emergency option.",
+    "price": "From $179",
     "data-link": "pending"
   }
 ]
